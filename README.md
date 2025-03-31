@@ -57,6 +57,30 @@ The workbook consists of **10 well-organized tabs**:
 10. **Outlier Detection** – For unusually high/low unit prices
 
 ---
+# **Key Findings & Visualizations**
+---
+
+## 1️Top 5 Invoices with Highest Revenue  
+
+**Invoice #581483** alone generated $168,469.60, followed by others with significantly lower values — showing large revenue disparity. Recognizing high-revenue invoices helps in tracking large client orders, potential fraud, or billing errors. Implement a system to monitor exceptionally large invoices and verify their validity for audit and risk control.
+
+<p align="center">  
+  <![image](https://github.com/user-attachments/assets/cd3db49f-77d8-4be9-a8e4-409ccc0e9156)
+" width="600">  
+</p>
+
+---
+
+## 2️Proportion of Deaths by Gender  
+
+- **Males (77.9%)** have a significantly higher mortality rate than females (22.1%) in both categories.  
+- This highlights a **critical gender disparity** in mental health crises and substance-related deaths.  
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/84d9850d-1b00-4c42-ac0e-18093cc8476c" width="400">  
+</p>
+
+---
 
 ## Visual Insights
 
