@@ -75,10 +75,28 @@ The workbook consists of **10 well-organized tabs**:
 - **Customer ID 14646** is the top spender with $280,206.02, contributing significantly more than others — followed by 18102 and 17450. Enables businesses to reward loyal customers and tailor personalized experiences to top buyers. Analyze these customers’ purchase behavior to design loyalty or subscription-based models.
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/24b57908-a739-414c-922e-f964a802e44f" width="400">  
+  <img src="https://github.com/user-attachments/assets/24b57908-a739-414c-922e-f964a802e44f" width="600">  
 </p>
 
 ---
+
+## 3 Top 10 Selling Products 
+
+- **JUMBO BAG RED RETROSPOT"** tops the list with 46,078 units sold, followed closely by "WHITE HANGING HEART T-LIGHT HOLDER". Business Benefit: Pinpoints the highest-moving inventory, helping optimize stock levels and reduce storage costs. Monitor for seasonal demand trends and consider bundling high-performing products.
+
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/25b97ec1-c486-4b6e-9c04-0f3783df71b1" width="600">  
+</p>
+
+---
+
+## 4 Monthly Sales Trend
+
+- **November 2011** had the highest sales at $11.56M, with consistent growth visible in the second half of the year. Reveals peak months to optimize promotions, workforce, and logistics. Plan inventory and marketing efforts ahead of known peak months to capitalize on demand.
+  
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/cd382785-c1ae-46b0-beeb-d49bbd1b9958" width="600">  
+</p>
 
 ## Visual Insights
 
