@@ -4,7 +4,7 @@ This project showcases advanced Excel skills through an analysis of invoice data
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This analysis uses Excel to highlight business insights and financial trends using features such as:
 - **Pivot Tables**
@@ -13,15 +13,15 @@ This analysis uses Excel to highlight business insights and financial trends usi
 - **Data Sorting & Filtering**
 - **Data Validation**
 - **VLOOKUP**
-- **COUNTIF**
-- **Macros**
+- **Formulas**
 - **Cell Formatting**
+- **Cleaning etc**
 
 The purpose of this project is to demonstrate proficiency in Excel-based reporting and dashboarding to support **insightful financial decision-making**.
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 - **Source**: Online Retail Transaction Dataset  
 - **Period Covered**: December 1, 2010 – December 9, 2011  
@@ -41,7 +41,7 @@ The purpose of this project is to demonstrate proficiency in Excel-based reporti
 
 ---
 
-## 📂 Excel Workbook Structure
+## Excel Workbook Structure of Mine
 
 The workbook consists of **10 well-organized tabs**:
 
@@ -58,23 +58,13 @@ The workbook consists of **10 well-organized tabs**:
 
 ---
 
-## 📈 Visual Insights
+## Visual Insights
 
 - Tree Maps and Pie Charts for **geographic revenue** distribution
 - Bar Charts for **customer and product performance**
 - Line Chart for **monthly sales trends**
 - Heatmap & conditional formatting to detect **outliers**
   
----
-
-## 🎯 Why This Project?
-
-This project was built to support a job application for an **Account Specialist** role requiring:
-- Strong analytical thinking
-- Advanced Excel skills
-- Financial data handling
-- Reporting and visualization expertise
-
 ---
 
 ## ✅ Key Takeaways
@@ -86,5 +76,3 @@ This project demonstrates the ability to:
 - Build professional-quality dashboards for stakeholders
 
 ---
-
-Feel free to explore, share, or clone the repository! 😊
