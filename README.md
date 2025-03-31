@@ -60,9 +60,9 @@ The workbook consists of **10 well-organized tabs**:
 # **Key Findings & Visualizations**
 ---
 
-## 1️Top 5 Invoices with Highest Revenue  
+## 1 Top 5 Invoices with Highest Revenue  
 
-**Invoice #581483** alone generated $168,469.60, followed by others with significantly lower values — showing large revenue disparity. Recognizing high-revenue invoices helps in tracking large client orders, potential fraud, or billing errors. Implement a system to monitor exceptionally large invoices and verify their validity for audit and risk control.
+**Invoice #581483** alone generated $168,469.60, followed by others with significantly lower values, showing large revenue disparity. Recognizing high-revenue invoices helps in tracking large client orders, potential fraud, or billing errors. Implement a system to monitor exceptionally large invoices and verify their validity for audit and risk control.
 
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/cd3db49f-77d8-4be9-a8e4-409ccc0e9156" width="800">  
@@ -70,12 +70,12 @@ The workbook consists of **10 well-organized tabs**:
 
 ---
 
-## 2️Top 10 Customers by Total Revenue 
+## 2 Top 10 Customers by Total Revenue 
 
 **Customer ID 14646** is the top spender with $280,206.02, contributing significantly more than others — followed by 18102 and 17450. Enables businesses to reward loyal customers and tailor personalized experiences to top buyers. Analyze these customers’ purchase behavior to design loyalty or subscription-based models.
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/24b57908-a739-414c-922e-f964a802e44f" width="600">  
+  <img src="https://github.com/user-attachments/assets/24b57908-a739-414c-922e-f964a802e44f" width="800">  
 </p>
 
 ---
@@ -85,7 +85,7 @@ The workbook consists of **10 well-organized tabs**:
 **JUMBO BAG RED RETROSPOT** tops the list with 46,078 units sold, followed closely by "WHITE HANGING HEART T-LIGHT HOLDER". Business Benefit: Pinpoints the highest-moving inventory, helping optimize stock levels and reduce storage costs. Monitor for seasonal demand trends and consider bundling high-performing products.
 
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/25b97ec1-c486-4b6e-9c04-0f3783df71b1" width="600">  
+  <img src="https://github.com/user-attachments/assets/25b97ec1-c486-4b6e-9c04-0f3783df71b1" width="800">  
 </p>
 
 ---
@@ -95,34 +95,25 @@ The workbook consists of **10 well-organized tabs**:
 **November 2011** had the highest sales at $11.56M, with consistent growth visible in the second half of the year. Reveals peak months to optimize promotions, workforce, and logistics. Plan inventory and marketing efforts ahead of known peak months to capitalize on demand.
   
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/cd382785-c1ae-46b0-beeb-d49bbd1b9958" width="600">  
+  <img src="https://github.com/user-attachments/assets/cd382785-c1ae-46b0-beeb-d49bbd1b9958" width="800">  
 </p>
 
 ---
 
-## 4 Total Revenue per Country
+## 5 Total Revenue per Country
 
 **United Kingdom** dominates the market with $7.2M in sales, overshadowing other countries like the Netherlands and Germany. Identifies core markets and helps focus resources where returns are greatest. Target underperforming countries with localized offers and ad campaigns to grow market share.
   
 <p align="center">  
-  <img src="https://github.com/user-attachments/assets/52d0a40b-428a-4fc9-a3fb-2729be433de5" width="600">  
+  <img src="https://github.com/user-attachments/assets/52d0a40b-428a-4fc9-a3fb-2729be433de5" width="800">  
 </p>
 
-## Visual Insights
-
-- Tree Maps and Pie Charts for **geographic revenue** distribution
-- Bar Charts for **customer and product performance**
-- Line Chart for **monthly sales trends**
-- Heatmap & conditional formatting to detect **outliers**
-  
 ---
+## Key Takeaways
 
-## ✅ Key Takeaways
-
-This project demonstrates the ability to:
-- Clean and prepare raw transactional data
-- Create powerful visuals using Excel
-- Derive actionable insights from large datasets
-- Build professional-quality dashboards for stakeholders
-
+- This project strengthened my ability to debug and clean retail finance datasets by identifying missing values, invalid quantities, and pricing outliers using Excel tools like filters, conditional formatting, and formulas.
+- I learned how to work with invoice-level transactional data, helping me understand real business structures like cancellations, order spikes, and customer behavior.
+- Analyzing over 540,000 rows of data helped me build skills in financial reporting, pattern detection, and problem-solving — especially useful for roles involving retail accounting and invoice validation.
+- Businesses can benefit from this approach by catching errors early, ensuring clean financial records, and making informed sales and inventory decisions.
+- Overall, this project reflects my proficiency in Excel and ability to think analytically — transforming raw data into valuable, actionable insights that support business growth.
 ---
